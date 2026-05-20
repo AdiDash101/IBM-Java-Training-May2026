@@ -1,2 +1,6 @@
-# Day1_JavaTraining
-The File is in the Master Branch for Day1 Thank you!
+#IBM-JAVA-TRAINING-MAY2026
+
+*** GITHUB COMMITS & PUSHES ***
+- DAY 1: COMPLETE (Branch Day_1)
+- DAY 2: COMPLETE (Branch Day_2)
+- DAY 3: ?
