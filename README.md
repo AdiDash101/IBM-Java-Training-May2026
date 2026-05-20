@@ -1,2 +1,2 @@
 # Day1_JavaTraining
-This is the day 1 of java training repo
+The File is in the Master Branch for Day1 Thank you!
