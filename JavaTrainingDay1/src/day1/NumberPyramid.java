@@ -6,7 +6,7 @@ public class NumberPyramid {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int n = 0;
-		
+	
 		while (n < 1 || n > 20) {
 			System.out.print("Enter a positive integer N (betweeb 1 & 20): ");
 			n = scanner.nextInt();
